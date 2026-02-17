@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# Data (too large for GitHub)
+archive/
+patches/
+
+# Checkpoints (large files)
+checkpoints/
+
+# Conda/pip
+*.egg-info/
+.env
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
